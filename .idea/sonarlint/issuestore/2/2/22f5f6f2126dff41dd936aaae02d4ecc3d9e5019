@@ -1,0 +1,9 @@
+
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÙûÏúıÿÿÿÿ8ÀÈ†àÚ1
+_
+java:S1659"BDeclare "month" and all following declarations on a separate line.(™¼Áì8ÆÈ†àÚ1
+G	java:S106"+Replace this use of System.out by a logger.(ı ˜Ö8ÊÈ†àÚ1
+F	java:S106"+Replace this use of System.out by a logger.(Ú‘µ<8ÊÈ†àÚ1
+G	java:S106"+Replace this use of System.out by a logger.(åğõæ8ÊÈ†àÚ1
+L	java:S106"+Replace this use of System.out by a logger.(ÕÀö¤ıÿÿÿÿ8ËÈ†àÚ1
+L	java:S106"+Replace this use of System.out by a logger.(¤şİ‹ûÿÿÿÿ8ËæŒàÚ1

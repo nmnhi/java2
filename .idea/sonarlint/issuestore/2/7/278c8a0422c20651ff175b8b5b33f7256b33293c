@@ -1,0 +1,28 @@
+
+P
+java:S1854"5Remove this useless assignment to local variable "f".(ãÿÊ½úÿÿÿÿ
+K
+java:S1854
+"5Remove this useless assignment to local variable "d".(†ş¨—
+L
+java:S1854"6Remove this useless assignment to local variable "kq".(àé‡
+=
+java:S1481"'Remove this unused "kq" local variable.(àé‡
+V	java:S125"<This block of commented-out lines of code should be removed.(ÅÜòØûÿÿÿÿ
+<
+java:S1481
+"&Remove this unused "d" local variable.(†ş¨—
+V	java:S125"<This block of commented-out lines of code should be removed.(Ûóßßıÿÿÿÿ
+A
+java:S1481"&Remove this unused "f" local variable.(ãÿÊ½úÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(ÂŞ½„
+@	java:S106"+Replace this use of System.out by a logger.(Î¤¼–
+E	java:S106"+Replace this use of System.out by a logger.(›¯¦Øúÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(’·²
+E	java:S106"+Replace this use of System.out by a logger.(îÕ®üÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(ì—¶ãşÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(Ó—Çîüÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(ÌÓ·’
+?	java:S106"+Replace this use of System.out by a logger.(…Ÿó<
+E	java:S106"+Replace this use of System.out by a logger.(—Çá½øÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(Ú“Ó¥

@@ -1,3 +1,23 @@
 
-i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(é­ı8ØØİÚ1
-F	java:S106"+Replace this use of System.out by a logger.(ïÁßG8ÁáİİÚ1
+i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(é­ı8£³ÛßÚ1
+Z
+java:S1854
+"8Remove this useless assignment to local variable "ngay".(ª×çóÿÿÿÿÿ8¥³ÛßÚ1
+[
+java:S1854	"9Remove this useless assignment to local variable "thang".(§ßñëşÿÿÿÿ8¥³ÛßÚ1
+T
+java:S1854"7Remove this useless assignment to local variable "nam".(ŸäÕù8¥³ÛßÚ1
+E
+java:S1481"(Remove this unused "nam" local variable.(ŸäÕù8§³ÛßÚ1
+L
+java:S1481	"*Remove this unused "thang" local variable.(§ßñëşÿÿÿÿ8¨³ÛßÚ1
+K
+java:S1481
+")Remove this unused "ngay" local variable.(ª×çóÿÿÿÿÿ8¨³ÛßÚ1
+]	java:S125"<This block of commented-out lines of code should be removed.(–ÇØúÿÿÿÿ8¨³ÛßÚ1
+P
+java:S2110"."12" is not a valid value for setting "MONTH".(åìÏ¡ûÿÿÿÿ8¨³ÛßÚ1
+L	java:S106"+Replace this use of System.out by a logger.(îŒ‚´ùÿÿÿÿ8©³ÛßÚ1
+L	java:S106"+Replace this use of System.out by a logger.(Å›¿Óøÿÿÿÿ8©³ÛßÚ1
+G	java:S106"+Replace this use of System.out by a logger.(•ñùí8©³ÛßÚ1
+G	java:S106"+Replace this use of System.out by a logger.(íÊŒ÷8‡¢ŞßÚ1

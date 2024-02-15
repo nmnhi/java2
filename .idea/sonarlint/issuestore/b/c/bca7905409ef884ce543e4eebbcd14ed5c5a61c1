@@ -1,0 +1,9 @@
+
+i
+java:S1192"GDefine a constant instead of duplicating this literal "123456" 7 times.(ëÍüÿÿÿÿ8åÚ¨éÚ1
+i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Îı†ÿ8æÚ¨éÚ1
+G	java:S106"+Replace this use of System.out by a logger.(ùÇ”8ñÚ¨éÚ1
+L	java:S106"+Replace this use of System.out by a logger.(‚Äêãøÿÿÿÿ8òÚ¨éÚ1
+G	java:S106#"+Replace this use of System.out by a logger.(º²Êñ8òÚ¨éÚ1
+G	java:S106&"+Replace this use of System.out by a logger.(‘ì«»8òÚ¨éÚ1
+L	java:S106("+Replace this use of System.out by a logger.(Í¼æúÿÿÿÿ8óÚ¨éÚ1
