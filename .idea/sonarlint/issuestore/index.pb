@@ -47,15 +47,13 @@ M
 C
 src/bai23_math.java,e/1/e126e00ecf29e890f72031c0f34e88123c96b8e7
 E
-src/bai24_random.java,b/4/b47f8d0c081c9b4c54714bf405aac80dad8a8f1e
+src/bai24_random.java,b\4\b47f8d0c081c9b4c54714bf405aac80dad8a8f1e
 J
-src/bai28_array_lists.java,a/5/a59f7a1632175f2d3e63b69faa0909d560597a45
+src/bai28_array_lists.java,a\5\a59f7a1632175f2d3e63b69faa0909d560597a45
 F
 src/bai29_hashmap.java,b/c/bca7905409ef884ce543e4eebbcd14ed5c5a61c1
 B
 src/bai30_oop.java,c/7/c79291bf665cd989f8b525a7a56fc35d417a2819
-A
-src/SinhVien.java,c/4/c4afb87f00a486f6c4980f387c63276c0b4119e3
 N
 src/TruongDaiHoc/SinhVien.java,f/a/fa474e4936c3ca7a23c42d4f9f0a56a545746e1d
 Å
@@ -84,8 +82,6 @@ w
 G.idea/sonarlint/issuestore/6/e/6ecd6000a7b6f4a2884412ff19f74193ed089648,3/8/38464f72ef55196e32fe4dfbcc50f1cda5f4cb5d
 w
 G.idea/sonarlint/issuestore/8/8/88a9255124c95bdc913197c120a8d560edc59c8e,a/e/ae9ddf453f55affea2d6b9e3973cac1eb2efb4e1
-Å
-Q.idea/sonarlint/securityhotspotstore/c/4/c4afb87f00a486f6c4980f387c63276c0b4119e3,e/2/e21a6bbd54a8e27d6be12b2c80a02fc87b398073
 w
 G.idea/sonarlint/issuestore/9/f/9fe84ebb15faf917b7def6236dba604453cc61e0,f/0/f0e0f9cec86fe4b939ae22be5264c758801eb28f
 Å
