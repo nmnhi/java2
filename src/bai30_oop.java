@@ -24,6 +24,18 @@ public class bai30_oop {
         // Test phuong thuc toString
         System.out.println(sv4);
         sv4.checkHopLeDiem();
+
+        // overloading
+        double test = sv4.tinhDTB(10, 9, 8);
+        System.out.println(test);
+        double test1 = sv4.tinhDTB(8, 8);
+        System.out.println(test1);
+
+        double tongDiem = sv4.TongDiem(10, 8, 5);
+        System.out.println(tongDiem);
+
+        double trungBinh = sv4.DiemTrungBinh(10, 5, 8, 9);
+        System.out.println(trungBinh);
     }
 }
 
