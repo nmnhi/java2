@@ -29,8 +29,12 @@ public class SinhVien {
         System.out.println(hoTen + " : " + diem);
     }
 
-    // get, set
+    // phuong thuc co kieu tra ve
+    public double tinhDTB(double diemToan, double diemVan) {
+        return (diemToan + diemVan) / 2;
+    }
 
+    // get, set
     public String getHoTen() {
         return hoTen;
     }
@@ -45,5 +49,31 @@ public class SinhVien {
 
     public void setDiem(double diem) {
         this.diem = diem;
+    }
+
+    // phuong thuc toString
+
+    @Override
+    public String toString() {
+        return "SinhVien{" +
+                "hoTen='" + hoTen + '\'' +
+                ", diem=" + diem +
+                '}';
+    }
+
+    // support method va Service method
+    // Support method
+    // Kiem tra khi nhap ho so sinh vien
+    private boolean checkDiem() {
+        return this.diem >= 24;
+    }
+
+    // Service method
+    public void checkHopLeDiem() {
+        if (checkDiem()) {
+            System.out.println("Diem hop le");
+        } else {
+            System.out.println("Diem khong hop le");
+        }
     }
 }

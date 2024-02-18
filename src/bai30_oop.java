@@ -13,8 +13,16 @@ public class bai30_oop {
         sv4.hienThiThongTin();
         System.out.println(sv4.getHoTen());
         System.out.println(sv4.getDiem());
-        sv4.setDiem(9.5);
+        sv4.setDiem(25);
         sv4.setHoTen("AAAAAAAAA");
         sv4.hienThiThongTin();
+
+        //test phuong thuc co kieu tra ve
+        double dtbsv4 = sv1.tinhDTB(10, 8);
+        System.out.println("Dien trung sv4: " + dtbsv4);
+
+        // Test phuong thuc toString
+        System.out.println(sv4);
+        sv4.checkHopLeDiem();
     }
 }
