@@ -18,3 +18,4 @@ public class bai30_oop {
         sv4.hienThiThongTin();
     }
 }
+
