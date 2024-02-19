@@ -1,5 +1,11 @@
 
-{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÓÑ÷Şøÿÿÿÿ8şˆ’êÚ1
-G	java:S106"+Replace this use of System.out by a logger.(Òî¹8‰äåéÚ1
-G	java:S106J"+Replace this use of System.out by a logger.(òœÈÅ8¯˜øäÛ1
-G	java:S106L"+Replace this use of System.out by a logger.(¹¾Ñü8±˜øäÛ1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÓÑ÷Şøÿÿÿÿ8ÉÃ«åÛ1
+G	java:S106"+Replace this use of System.out by a logger.(Òî¹8ÚÃ«åÛ1
+G	java:S106O"+Replace this use of System.out by a logger.(òœÈÅ8àÃ«åÛ1
+G	java:S106Q"+Replace this use of System.out by a logger.(¹¾Ñü8àÃ«åÛ1
+o	java:S100V"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»îöùÿÿÿÿ8áÃ«åÛ1
+j	java:S100^"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(øûš¢8âÃ«åÛ1
+X
+java:S1854_"6Remove this useless assignment to local variable "tb".(çé–Ÿûÿÿÿÿ8âÃ«åÛ1
+I
+java:S1481_"'Remove this unused "tb" local variable.(çé–Ÿûÿÿÿÿ8çÃ«åÛ1

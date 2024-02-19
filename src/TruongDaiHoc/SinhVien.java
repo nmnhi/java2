@@ -34,6 +34,11 @@ public class SinhVien {
         return (diemToan + diemVan) / 2;
     }
 
+    // phuong thuc 2
+    public double tinhDTB(double diemToan, double diemVan, double diemAnh) {
+        return (diemToan + diemVan + diemAnh) / 3;
+    }
+
     // get, set
     public String getHoTen() {
         return hoTen;
@@ -75,5 +80,23 @@ public class SinhVien {
         } else {
             System.out.println("Diem khong hop le");
         }
+    }
+
+    // parameter list
+    public double TongDiem(double... array) {
+        double tong = 0.0;
+        for (double x : array) {
+            tong += x;
+        }
+        return tong;
+    }
+
+    public double DiemTrungBinh(double... arr) {
+        double tb = 0.0;
+        double tong = 0.0;
+        for (double x : arr) {
+            tong += x;
+        }
+        return tong / (arr.length);
     }
 }
